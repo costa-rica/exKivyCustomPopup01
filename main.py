@@ -79,8 +79,6 @@ class BaseBoxLayout(BoxLayout):
 
 class CustomPopup(ModalView):
   anchor_popup = ObjectProperty(AnchorLayout())
-  ps1_base_width = NumericProperty()
-  ps1_base_height = NumericProperty()
 
   def __init__(self, **kwargs):
     super().__init__(**kwargs)
