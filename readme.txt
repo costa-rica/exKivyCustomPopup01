@@ -1,4 +1,3 @@
-Readme
 This repo ws called exKivyCustomPopup05 in macmini
 These were useful:
 
